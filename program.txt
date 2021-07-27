@@ -1,0 +1,9 @@
+int main()
+{
+int number1 = 12 , number2 = 3 , number3 = 3.3 , sum ;
+if (number3 < 0) {
+     number2 = 2 ;   
+     sum = number1 + number2 ;
+    }  
+return 0 ;
+}
